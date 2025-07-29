@@ -71,3 +71,4 @@ Automated systems for parsing, analyzing, and adapting **3D environments**:
 
 📫 Let's connect:             [X/Twitter](https://x.com/@GeoNeo790) 
 [Email](mailto:nyvegos@gmail.com)
+[Connect on Signal](https://signal.me/#eu/1vhnqxY7atTKFAOymSbaPMEiSAC31MY2cD3pOuQr82ZdbpPCTtBLK5UddmrC06N_)
